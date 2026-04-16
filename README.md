@@ -6,5 +6,5 @@ Ce projet est un laboratoire dans lequel j’utilise GitHub pour :
 - Gérer des tâches avec Issues
 - Publier avec GitHub Pages
 
-## 🌐 Site Web
+## Site Web
 https://brad16thompson-coder.github.io/Module13_Bradley/
